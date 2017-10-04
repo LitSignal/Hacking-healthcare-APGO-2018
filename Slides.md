@@ -61,15 +61,17 @@ Education tooling
 - Package managers: ?
 - Licenses: CC0, CC-BY, CC-BY-ND...
 
-Open Source in Medical Education
-
 The Litsignal Platform
-- open and available platform for discovering, sharing, and 
-- available
-- searchable
-- organizable
-- collaborative
-- support for content: attachments, text, video, audio, references
+- open and available platform for discovering, authoring and sharing educational modules
+- open: no paywall, no login wall
+- inclusive: no restrictions on membership
+- flexible: supports attachments, text, video, audio, and references
+
+Litsignal checklist
+- Collaborative iteration - yes
+- Distribution and discussion - yes
+- Discovery - yes
+- Unambiguous licensing - yes
 
 Author, Share, Collaborate and Discover
 
